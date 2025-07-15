@@ -1,0 +1,7 @@
+title: "Tang-is-harding的个人博客"
+description: "这是我的个人博客网站，支持文章发布、图片展示、留言板、个人介绍、友情链接、作品展示等功能。"
+author: "Tang-is-harding"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
