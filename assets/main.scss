@@ -1,18 +1,18 @@
-// 这是自定义样式文件
+---
+---
 
-// 更改全局字体
+@import "minima";
+
 body {
   font-family: "微软雅黑", "Arial", sans-serif;
   background: #f8f9fa;
   color: #222;
 }
 
-// 标题样式
 h1, h2, h3 {
   color: #1976d2;
 }
 
-// 链接美化
 a {
   color: #e91e63;
   text-decoration: none;
@@ -21,7 +21,6 @@ a:hover {
   text-decoration: underline;
 }
 
-// 让页面内容居中并有边距
 .wrapper {
   max-width: 900px;
   margin: 0 auto;
